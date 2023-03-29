@@ -1,6 +1,6 @@
 ### Olá, sou Kaio Lucas 👋
 
-- 🌱 Estudando Javacript e PostgreSQL
+- 🌱 Estudando...
 
 <div align="center">
   <a href="https://github.com/kaiolucasti">
